@@ -1,16 +1,74 @@
 
  <!--🎦🎦🎦--> 
-  <track kind="captions" label="ไทย" srclang="th" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Thai_[tha].vtt">
-  <track kind="captions" label="English" srclang="en" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/English_[eng].vtt">
-  <track kind="captions" label="Arabic" srclang="ar" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Arabic_[ara].vtt">
-  <track kind="captions" label="French" srclang="" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/French_[fre].vtt">
-  <track kind="captions" label="Bahasa Indonesia" srclang="id" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Bahasa Indonesia_[ind].vtt">
-  <track kind="captions" label="Japanese" srclang="ja" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Japanese_[jpn].vtt">
-  <track kind="captions" label="Korean" srclang="ko" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Korean_[kor].vtt">
-  <track kind="captions" label="Bahasa Malaysia" srclang="ms" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Bahasa Malaysia_[may].vtt">
-  <track kind="captions" label="Portuguese" srclang="pt" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Portuguese_[por].vtt">
-  <track kind="captions" label="Spanish" srclang="es" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Spanish_[spa].vtt">
-  <track kind="captions" label="Vietnamese" srclang="vi" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Vietnamese_[vie].vtt">
-  <track kind="captions" label="Simplified Chinese" srclang="zh" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Simplified Chinese_[chi].vtt">
-  <track kind="captions" label="Traditional Chinese" srclang="zh" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Traditional Chinese_[chi].vtt">
-  <!----->	
+  <track kind="captions" label="ไทย(Netflix)" srclang="th" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Thai (Netflix)_[tha].vtt">
+  <track kind="captions" label="ไทย(YOUKU)" srclang="th." src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/thai (YOUKU)_[tha].vtt">
+  <track kind="captions" label="English" srclang="eng" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/English_[eng].vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Arabic_[ara].vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Chinese (Simplified) [Original]_[chi].vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Chinese (Traditional) [Original]_[chi].vtt">
+  <track kind="captions" label="French" srclang="fre" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/French_[fre].vtt">
+  <track kind="captions" label="German" srclang="ger" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/German_[ger].vtt">
+  <track kind="captions" label="Hindi" srclang="hin" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Hindi_[hin].vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Indonesian_[ind].vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Japanese_[jpn].vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Korean_[kor].vtt">
+  <track kind="captions" label="Malay" srclang="may" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Malay_[may].vtt">
+  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Portuguese (Brazil) Brazil_[por].vtt">
+  <track kind="captions" label="Spanish (Latin America)" srclang="spa" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Spanish (Latin America) Latin America_[spa].vtt">
+  <track kind="captions" label="Spanish" srclang="spa." src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Spanish_[spa].vtt">
+  <track kind="captions" label="Turkish" srclang="tur" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Turkish_[tur].vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="https://kang15002.github.io/subtitle/พลิกชะตาเหนือฟ้า/00/Vietnamese_[vie].vtt">
+  <!----->
+
+
+
+
+อาหรับ (กลุ่มประเทศอาหรับ / ตะวันออกกลาง) ตัวย่อ: ara
+Arabic_[ara].vtt*
+
+จีนตัวย่อ (จีน) ตัวย่อ: chi หรือ zh-hans
+Chinese (Simplified) [Original]_[chi].vtt
+
+จีนตัวเต็ม (ไต้หวัน/ฮ่องกง) ตัวย่อ: chi หรือ zh-hant
+Chinese (Traditional) [Original]_[chi].vtt
+
+อังกฤษ (สหรัฐอเมริกา/สหราชอาณาจักร)  ตัวย่อ: eng
+English_[eng].vtt*
+
+ฝรั่งเศส (ฝรั่งเศส) ตัวย่อ: fre หรือ fra
+French_[fre].vtt*
+
+เยอรมัน (เยอรมนี) ตัวย่อ: ger หรือ deu
+German_[ger].vtt
+
+ฮินดี (อินเดีย) ตัวย่อ: hin
+Hindi_[hin].vtt
+
+อินโดนีเซีย (อินโดนีเซีย) ตัวย่อ: ind
+Indonesian_[ind].vtt*
+
+ญี่ปุ่น (ญี่ปุ่น) ตัวย่อ: jpn
+Japanese_[jpn].vtt*
+
+เกาหลี (เกาหลีใต้) ตัวย่อ: kor
+Korean_[kor].vtt
+
+มลายู (มาเลเซีย) ตัวย่อ: may หรือ msa
+Malay_[may].vtt
+
+โปรตุเกส - บราซิล (บราซิล) ตัวย่อ: por (มักใช้เฉพาะเขตเป็น pt-BR)
+Portuguese (Brazil) Brazil_[por].vtt
+
+สเปน - ละตินอเมริกา (กลุ่มประเทศละตินอเมริกา) ตัวย่อ: spa (มักใช้เฉพาะเขตเป็น es-419)
+Spanish (Latin America) Latin America_[spa].vtt
+
+สเปน (สเปน) ตัวย่อ: spa (หรือ es-ES)
+Spanish_[spa].vtt
+
+ตุรกี (ตุรกี) ตัวย่อ: tur
+Turkish_[tur].vtt
+
+เวียดนาม (เวียดนาม) ตัวย่อ: vie
+Vietnamese_[vie].vtt
+
+
