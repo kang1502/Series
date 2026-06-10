@@ -1,0 +1,16 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Thai_[tha].vtt">
+  <track kind="captions" label="English" srclang="en" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/English_[eng].vtt">
+  <track kind="captions" label="Arabic" srclang="ar" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Arabic_[ara].vtt">
+  <track kind="captions" label="French" srclang="" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/French_[fre].vtt">
+  <track kind="captions" label="Bahasa Indonesia" srclang="id" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Bahasa Indonesia_[ind].vtt">
+  <track kind="captions" label="Japanese" srclang="ja" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Japanese_[jpn].vtt">
+  <track kind="captions" label="Korean" srclang="ko" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Korean_[kor].vtt">
+  <track kind="captions" label="Bahasa Malaysia" srclang="ms" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Bahasa Malaysia_[may].vtt">
+  <track kind="captions" label="Portuguese" srclang="pt" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Portuguese_[por].vtt">
+  <track kind="captions" label="Spanish" srclang="es" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Spanish_[spa].vtt">
+  <track kind="captions" label="Vietnamese" srclang="vi" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Vietnamese_[vie].vtt">
+  <track kind="captions" label="Simplified Chinese" srclang="zh" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Simplified Chinese_[chi].vtt">
+  <track kind="captions" label="Traditional Chinese" srclang="zh" src="https://raw.githubusercontent.com/doogoodseries1/subtitle/refs/heads/main/กงสีสีหมึก/000/Traditional Chinese_[chi].vtt">
+  <!----->	
