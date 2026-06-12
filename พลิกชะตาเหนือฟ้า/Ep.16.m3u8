@@ -1,0 +1,16 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย(Netflix)",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/C/Z/n/w/CZnwA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=225478144-225504712"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย(YOUKU)",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fww1/dc/s8/2/U/X/n/w/UXnwA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=88747008-88773133"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/8/W/n/w/8WnwA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=88870912-88897037"
+
+#EXT-X-STREAM-INF:BANDWIDTH=4098000,RESOLUTION=1920x804
+https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/C/Z/n/w/CZnwA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1366989312-1367016238
+#EXT-X-STREAM-INF:BANDWIDTH=2138000,RESOLUTION=1280x536
+https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/C/Z/n/w/CZnwA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=713137152-713163902
+#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x358
+https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/C/Z/n/w/CZnwA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=350790656-350817319
+#EXT-X-STREAM-INF:BANDWIDTH=676000,RESOLUTION=640x268
+https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/C/Z/n/w/CZnwA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=225478144-225504712
+#EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x268
+https://hugh.cdn.rumble.cloud/video/fww1/28/s8/2/C/Z/n/w/CZnwA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=74397184-74423425
