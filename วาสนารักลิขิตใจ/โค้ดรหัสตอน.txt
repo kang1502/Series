@@ -1,4 +1,4 @@
-77q3r0   https://hugh.cdn.rumble.cloud/video/fww1/fc/s8/2/e/M/h/o/eMhoA.aaa.mkv
+﻿77q3r0   https://hugh.cdn.rumble.cloud/video/fww1/fc/s8/2/e/M/h/o/eMhoA.aaa.mkv
 77sbkq   https://hugh.cdn.rumble.cloud/video/fww1/13/s8/2/I/2/G/o/I2GoA.aaa.mkv
 77q3y6   https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/2/g/Q/h/o/gQhoA.aaa.mkv
 77q40w   https://hugh.cdn.rumble.cloud/video/fww1/71/s8/2/O/R/h/o/ORhoA.aaa.mkv
@@ -16,21 +16,28 @@
 77zm1u   https://hugh.cdn.rumble.cloud/video/fww1/5b/s8/2/Q/5/Z/p/Q5ZpA.aaa.mkv
 783ijm  https://hugh.cdn.rumble.cloud/video/fwe2/6c/s8/2/Q/w/G/q/QwGqA.aaa.mkv
 783is6  https://hugh.cdn.rumble.cloud/video/fwe2/5c/s8/2/E/B/G/q/EBGqA.aaa.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+784jls   https://hugh.cdn.rumble.cloud/video/fwe2/57/s8/2/i/f/S/q/ifSqA.aaa.mkv
+785z38   https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/S/x/8/q/Sx8qA.aaa.mkv
+787sj0   https://hugh.cdn.rumble.cloud/video/fww1/bd/s8/2/0/e/r/r/0errA.aaa.mkv
+787x80   https://hugh.cdn.rumble.cloud/video/fww1/a3/s8/2/4/J/s/r/4JsrA.aaa.mkv
+789grw   https://hugh.cdn.rumble.cloud/video/fwe2/98/s8/2/0/i/K/r/0iKrA.aaa.mkv
+789gsg   https://hugh.cdn.rumble.cloud/video/fwe2/91/s8/2/i/j/K/r/ijKrA.aaa.mkv
+78batg   https://hugh.cdn.rumble.cloud/video/fwe2/8c/s8/2/m/c/5/r/mc5rA.aaa.mkv
+78bau4   https://hugh.cdn.rumble.cloud/video/fww1/38/s8/2/K/c/5/r/Kc5rA.aaa.mkv
+78ct4s   https://hugh.cdn.rumble.cloud/video/fww1/cf/s8/2/e/o/k/s/eoksA.aaa.mkv
+78eg0e   https://hugh.cdn.rumble.cloud/video/fwe2/22/s8/2/w/2/C/s/w2CsA.aaa.mkv
+78yr86   https://hugh.cdn.rumble.cloud/video/fww1/26/s8/2/E/n/e/w/EnewA.Faa.mp4
+78yrd4   https://hugh.cdn.rumble.cloud/video/fww1/43/s8/2/q/q/e/w/qqewA.Faa.mp4
+78yrg2   https://hugh.cdn.rumble.cloud/video/fwe2/bf/s8/2/6/r/e/w/6rewA.Faa.mp4
+78yrha   https://hugh.cdn.rumble.cloud/video/fwe2/1c/s8/2/M/s/e/w/MsewA.Faa.mp4
+78yrio   https://hugh.cdn.rumble.cloud/video/fwe2/f1/s8/2/y/t/e/w/ytewA.Faa.mp4
+78z68e   https://hugh.cdn.rumble.cloud/video/fww1/d4/s8/2/w/9/i/w/w9iwA.Faa.mp4
+78z6c2   https://hugh.cdn.rumble.cloud/video/fwe2/10/s8/2/A/_/i/w/A_iwA.Faa.mp4
+78z6dw   https://hugh.cdn.rumble.cloud/video/fwe2/5f/s8/2/C/a/j/w/CajwA.Faa.mp4
+78z6fq   https://hugh.cdn.rumble.cloud/video/fwe2/7e/s8/2/E/b/j/w/EbjwA.Faa.mp4
+78z6i6   https://hugh.cdn.rumble.cloud/video/fwe2/20/s8/2/2/c/j/w/2cjwA.Faa.mp4
+78z6k4   https://hugh.cdn.rumble.cloud/video/fww1/29/s8/2/8/d/j/w/8djwA.Faa.mp4
+78z6lq   https://hugh.cdn.rumble.cloud/video/fwe2/62/s8/2/2/e/j/w/2ejwA.Faa.mp4
 
 
 [ลงใหม่แก้ความคมชัดบางส่วนขาดหาย] 
