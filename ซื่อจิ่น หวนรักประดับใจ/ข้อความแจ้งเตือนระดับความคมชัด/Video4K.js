@@ -35,7 +35,7 @@ window.addEventListener('load', function() {
     setupNotice('Video4K', 
         '✨ ซีรี่ย์มีความคมชัด 4K หากหนังสะดุดให้ลดความคมชัดลงห้ามเกิน 1080p', 
         20, 
-        'color: #2ecc71; font-size: 22px; border-bottom: 1px dashed #ccc; padding-bottom: 5px;'
+        'color: #2ecc71; font-size: 15px; border-bottom: 1px dashed #ccc; padding-bottom: 5px;'
     );
 });
 
