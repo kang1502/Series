@@ -34,8 +34,8 @@ window.addEventListener('load', function() {
     // แบบที่ 3: แช่ค้างไว้ตลอด (ไอดีใหม่ที่คุณต้องการเพิ่ม)
     setupNotice('Video4K', 
         '✨ ซีรี่ย์มีความคมชัด 4K หากหนังสะดุดให้ลดความคมชัดลงห้ามเกิน 1080p', 
-        20, 
-        'color: #2ecc71; font-size: 18px; border-bottom: 1px dashed #ccc; padding-bottom: 5px;'
+        30, 
+        'color: #2ecc71; font-size: 20px; border-bottom: 1px dashed #ccc; padding-bottom: 5px;'
     );
 });
 
