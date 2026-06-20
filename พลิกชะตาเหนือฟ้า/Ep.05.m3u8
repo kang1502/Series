@@ -4,13 +4,13 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย(YOUKU)",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fwe2/1a/s8/2/C/R/J/t/CRJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=83764736-83789389"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fww1/5d/s8/2/m/V/J/t/mVJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=83899392-83924045"
 
-#EXT-X-STREAM-INF:BANDWIDTH=4102000,RESOLUTION=1920x804
+#EXT-X-STREAM-INF:BANDWIDTH=4102000,RESOLUTION=1920x804,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/0/w/J/t/0wJtA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1290335232-1290360618
-#EXT-X-STREAM-INF:BANDWIDTH=2137000,RESOLUTION=1280x536
+#EXT-X-STREAM-INF:BANDWIDTH=2137000,RESOLUTION=1280x536,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/0/w/J/t/0wJtA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=672303104-672328347
-#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x358
+#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x358,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/0/w/J/t/0wJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=330659840-330685011
-#EXT-X-STREAM-INF:BANDWIDTH=676000,RESOLUTION=640x268
+#EXT-X-STREAM-INF:BANDWIDTH=676000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/0/w/J/t/0wJtA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=212610048-212635112
-#EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x268
+#EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
 https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/0/w/J/t/0wJtA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=70179328-70203995
