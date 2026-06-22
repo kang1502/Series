@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-#EXT-X-STREAM-INF:BANDWIDTH=6394000,RESOLUTION=2560x1280
-https://hugh.cdn.rumble.cloud/video/fwe2/8c/s8/2/m/c/5/r/mc5rA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2160349184-2160376682
+# EXT-X-STREAM-INF:BANDWIDTH=6394000,RESOLUTION=2560x1280
+# https://hugh.cdn.rumble.cloud/video/fwe2/8c/s8/2/m/c/5/r/mc5rA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2160349184-2160376682
 #EXT-X-STREAM-INF:BANDWIDTH=4109000,RESOLUTION=1920x960
 https://hugh.cdn.rumble.cloud/video/fwe2/8c/s8/2/m/c/5/r/mc5rA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1388546560-1388573889
 #EXT-X-STREAM-INF:BANDWIDTH=2132000,RESOLUTION=1280x640
