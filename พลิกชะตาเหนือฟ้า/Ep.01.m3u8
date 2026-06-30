@@ -1,16 +1,16 @@
 ﻿#EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย(Netflix)",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/O/t/J/t/OtJtA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=241268736-241297210"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย(YOUKU)",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fww1/38/s8/2/u/P/J/t/uPJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=95172608-95200596"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://hugh.cdn.rumble.cloud/video/fww1/01/s8/2/S/S/J/t/SSJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=95302144-95330132"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย(Netflix)",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="3",URI="https://1a-1791.com/video/fww1/33/s8/2/O/t/J/t/OtJtA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=241268736-241297210"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย(YOUKU)",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://1a-1791.com/video/fww1/38/s8/2/u/P/J/t/uPJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=95172608-95200596"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="3",URI="https://1a-1791.com/video/fww1/01/s8/2/S/S/J/t/SSJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=95302144-95330132"
 
 #EXT-X-STREAM-INF:BANDWIDTH=4103000,RESOLUTION=1920x804,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
-https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/O/t/J/t/OtJtA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1467241472-1467270455
+https://1a-1791.com/video/fww1/33/s8/2/O/t/J/t/OtJtA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1467241472-1467270455
 #EXT-X-STREAM-INF:BANDWIDTH=2138000,RESOLUTION=1280x536,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
-https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/O/t/J/t/OtJtA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=764749824-764778487
+https://1a-1791.com/video/fww1/33/s8/2/O/t/J/t/OtJtA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=764749824-764778487
 #EXT-X-STREAM-INF:BANDWIDTH=1052000,RESOLUTION=854x358,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
-https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/O/t/J/t/OtJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=376218112-376246689
+https://1a-1791.com/video/fww1/33/s8/2/O/t/J/t/OtJtA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=376218112-376246689
 #EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
-https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/O/t/J/t/OtJtA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=241268736-241297210
+https://1a-1791.com/video/fww1/33/s8/2/O/t/J/t/OtJtA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=241268736-241297210
 #EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
-https://hugh.cdn.rumble.cloud/video/fww1/33/s8/2/O/t/J/t/OtJtA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=79725568-79753685
+https://1a-1791.com/video/fww1/33/s8/2/O/t/J/t/OtJtA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=79725568-79753685

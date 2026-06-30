@@ -2,14 +2,14 @@
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 # EXT-X-STREAM-INF:BANDWIDTH=6370000,RESOLUTION=2560x1280
-# https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/W/H/G/o/WHGoA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2245937152-2245965777
+# https://1a-1791.com/video/fww1/5f/s8/2/W/H/G/o/WHGoA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2245937152-2245965777
 #EXT-X-STREAM-INF:BANDWIDTH=4108000,RESOLUTION=1920x960
-https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/W/H/G/o/WHGoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1448480256-1448508724
+https://1a-1791.com/video/fww1/5f/s8/2/W/H/G/o/WHGoA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1448480256-1448508724
 #EXT-X-STREAM-INF:BANDWIDTH=2140000,RESOLUTION=1280x640
-https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/W/H/G/o/WHGoA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=754483200-754511450
+https://1a-1791.com/video/fww1/5f/s8/2/W/H/G/o/WHGoA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=754483200-754511450
 #EXT-X-STREAM-INF:BANDWIDTH=1053000,RESOLUTION=854x428
-https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/W/H/G/o/WHGoA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=371296768-371324930
+https://1a-1791.com/video/fww1/5f/s8/2/W/H/G/o/WHGoA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=371296768-371324930
 #EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x320
-https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/W/H/G/o/WHGoA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=237967872-237995946
+https://1a-1791.com/video/fww1/5f/s8/2/W/H/G/o/WHGoA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=237967872-237995946
 #EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x320
-https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/W/H/G/o/WHGoA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=78611968-78639785
+https://1a-1791.com/video/fww1/5f/s8/2/W/H/G/o/WHGoA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=78611968-78639785
