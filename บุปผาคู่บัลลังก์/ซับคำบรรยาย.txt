@@ -1,0 +1,13 @@
+﻿
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย(Netflix)" srclang="th" src="บุปผาคู่บัลลังก์/01/Thai_[tha].vtt">
+  <track kind="captions" label="English" srclang="eng" src="บุปผาคู่บัลลังก์/01/English_[eng].vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="บุปผาคู่บัลลังก์/01/Arabic_[ara].vtt">
+  <track kind="captions" label="French" srclang="fre" src="บุปผาคู่บัลลังก์/01/French_[fre].vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="บุปผาคู่บัลลังก์/01/Bahasa Indonesia_[ind].vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="บุปผาคู่บัลลังก์/01/Korean_[kor].vtt">
+  <track kind="captions" label="Malay" srclang="may" src="บุปผาคู่บัลลังก์/01/Bahasa Malaysia_[may].vtt">
+  <track kind="captions" label="Portuguese" srclang="por" src="บุปผาคู่บัลลังก์/01/Portuguese_[por].vtt">
+  <track kind="captions" label="Spanish" srclang="spa" src="บุปผาคู่บัลลังก์/01/Spanish_[spa].vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="บุปผาคู่บัลลังก์/01/Vietnamese_[vie].vtt">
+  <!----->
