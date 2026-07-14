@@ -1,0 +1,21 @@
+https://1a-1791.com/video/fww1/30/s8/2/o/u/B/F/ouBFA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=349559296-349585870
+https://1a-1791.com/video/fww1/a7/s8/2/-/u/B/F/-uBFA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=353739776-353766636
+https://1a-1791.com/video/fww1/fd/s8/2/W/v/B/F/WvBFA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=350526976-350553628
+https://1a-1791.com/video/fwe2/4b/s8/2/c/w/B/F/cwBFA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=352470016-352496875
+https://1a-1791.com/video/fww1/0e/s8/2/G/w/B/F/GwBFA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=360324608-360351981
+https://1a-1791.com/video/fww1/d4/s8/2/Q/w/B/F/QwBFA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=361028096-361055546
+https://1a-1791.com/video/fww1/d0/s8/2/c/v/1/F/cv1FA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351726592-351753258
+https://1a-1791.com/video/fwe2/18/s8/2/y/v/1/F/yv1FA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=368353792-368381774
+https://1a-1791.com/video/fww1/c0/s8/2/Y/v/1/F/Yv1FA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=346627584-346653947
+https://1a-1791.com/video/fwe2/44/s8/2/a/w/1/F/aw1FA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=352366080-352392829
+
+
+
+
+
+
+
+
+ใช้โดเมนอยู่ 2 ตัว
+https://1a-1791.com
+https://hugh.cdn.rumble.cloud/
