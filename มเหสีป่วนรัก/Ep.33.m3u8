@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=4102000,RESOLUTION=1920x1080
+https://1a-1791.com/video/fwe2/ca/s8/2/4/I/r/N/4IrNz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1112367616-1112389412
+#EXT-X-STREAM-INF:BANDWIDTH=2135000,RESOLUTION=1280x720
+https://1a-1791.com/video/fwe2/ca/s8/2/4/I/r/N/4IrNz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=578906112-578927838
+#EXT-X-STREAM-INF:BANDWIDTH=1052000,RESOLUTION=854x480
+https://1a-1791.com/video/fwe2/ca/s8/2/4/I/r/N/4IrNz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=285469696-285491333
+#EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x360
+https://1a-1791.com/video/fwe2/ca/s8/2/4/I/r/N/4IrNz.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=182893056-182914595
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x360
+https://1a-1791.com/video/fwe2/ca/s8/2/4/I/r/N/4IrNz.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=60344832-60366146
