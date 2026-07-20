@@ -1,0 +1,12 @@
+﻿
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="หอมกลิ่นพันลี้/01/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="หอมกลิ่นพันลี้/01/eng.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="หอมกลิ่นพันลี้/01/ind.vtt">
+  <track kind="captions" label="Chinese" srclang="zh-hans" src="หอมกลิ่นพันลี้/01/chi.vtt">  
+  <track kind="captions" label="Korean" srclang="kor" src="หอมกลิ่นพันลี้/01/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="หอมกลิ่นพันลี้/01/may.vtt">
+  <track kind="captions" label="Portuguese" srclang="por" src="หอมกลิ่นพันลี้/01/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa" src="หอมกลิ่นพันลี้/01/spa.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="หอมกลิ่นพันลี้/01/vie.vtt">
+  <!----->
