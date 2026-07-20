@@ -1,0 +1,16 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="ดาวประกายพร่างพรายฝัน/01/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="ดาวประกายพร่างพรายฝัน/01/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="ดาวประกายพร่างพรายฝัน/01/ara.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="ดาวประกายพร่างพรายฝัน/01/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="ดาวประกายพร่างพรายฝัน/01/chi_1.vtt">
+  <track kind="captions" label="French" srclang="fre" src="ดาวประกายพร่างพรายฝัน/01/fre.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="ดาวประกายพร่างพรายฝัน/01/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="ดาวประกายพร่างพรายฝัน/01/jpn.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="ดาวประกายพร่างพรายฝัน/01/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="ดาวประกายพร่างพรายฝัน/01/may.vtt">
+  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="ดาวประกายพร่างพรายฝัน/01/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa." src="ดาวประกายพร่างพรายฝัน/01/spa.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="ดาวประกายพร่างพรายฝัน/01/vie.vtt">
+  <!----->
