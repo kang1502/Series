@@ -1,0 +1,14 @@
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="ชายาเคียงหทัย/01/Thai_[tha].vtt">
+  <track kind="captions" label="English" srclang="eng" src="ชายาเคียงหทัย/01/English_[eng].vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="ชายาเคียงหทัย/01/Arabic_[ara].vtt">
+  <track kind="captions" label="Chinese" srclang="zh" src="ชายาเคียงหทัย/01/Chinese_[chi].vtt">
+  <track kind="captions" label="Chinese Taiwan" srclang="zh-tw" src="ชายาเคียงหทัย/01/Chinese (Taiwan) Taiwan_[chi].vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="ชายาเคียงหทัย/01/Indonesian_[ind].vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="ชายาเคียงหทัย/01/Japanese_[jpn].vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="ชายาเคียงหทัย/01/Korean_[kor].vtt">
+  <track kind="captions" label="Malay" srclang="may" src="ชายาเคียงหทัย/01/Malay_[may].vtt">
+  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="ชายาเคียงหทัย/01/Portuguese (Brazil)_[por].vtt">
+  <track kind="captions" label="Spanish" srclang="spa" src="ชายาเคียงหทัย/01/Spanish_[spa].vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="ชายาเคียงหทัย/01/Vietnamese_[vie].vtt">
+  <!----->
