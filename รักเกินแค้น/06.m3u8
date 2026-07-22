@@ -1,0 +1,8 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080
+https://cdn.jsdelivr.net/gh/kang1502/index@main/รักเกินแค้น/playlist/1080p/06.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1250000,RESOLUTION=1280x720
+https://cdn.jsdelivr.net/gh/kang1502/index@main/รักเกินแค้น/playlist/720p/06.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=700000,RESOLUTION=854x480
+https://cdn.jsdelivr.net/gh/kang1502/index@main/รักเกินแค้น/playlist/480p/06.m3u8
