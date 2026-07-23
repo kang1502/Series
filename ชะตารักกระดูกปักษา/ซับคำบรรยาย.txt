@@ -1,20 +1,15 @@
 
  <!--🎦🎦🎦--> 
-  <track kind="captions" label="ไทย" srclang="th" src="พลิกชะตาเหนือฟ้า/01/tha.vtt">
-  <track kind="captions" label="English" srclang="eng" src="พลิกชะตาเหนือฟ้า/01/eng.vtt">
-  <track kind="captions" label="Arabic" srclang="ara" src="พลิกชะตาเหนือฟ้า/01/ara.vtt">
-  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="พลิกชะตาเหนือฟ้า/01/chi.vtt">
-  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="พลิกชะตาเหนือฟ้า/01/chi_1.vtt">
-  <track kind="captions" label="French" srclang="fre" src="พลิกชะตาเหนือฟ้า/01/fre.vtt">
-  <track kind="captions" label="German" srclang="ger" src="พลิกชะตาเหนือฟ้า/01/ger.vtt">
-  <track kind="captions" label="Hindi" srclang="hin" src="พลิกชะตาเหนือฟ้า/01/hin.vtt">
-  <track kind="captions" label="Indonesia" srclang="ind" src="พลิกชะตาเหนือฟ้า/01/ind.vtt">
-  <track kind="captions" label="Japanese" srclang="jpn" src="พลิกชะตาเหนือฟ้า/01/jpn.vtt">
-  <track kind="captions" label="Korean" srclang="kor" src="พลิกชะตาเหนือฟ้า/01/kor.vtt">
-  <track kind="captions" label="Malay" srclang="may" src="พลิกชะตาเหนือฟ้า/01/may.vtt">
-  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="พลิกชะตาเหนือฟ้า/01/por.vtt">
-  <track kind="captions" label="Spanish (Latin America)" srclang="spa" src="พลิกชะตาเหนือฟ้า/01/spa.vtt">
-  <track kind="captions" label="Spanish" srclang="spa." src="พลิกชะตาเหนือฟ้า/01/spa.vtt">
-  <track kind="captions" label="Turkish" srclang="tur" src="พลิกชะตาเหนือฟ้า/01/tur.vtt">
- <track kind="captions" label="Vietnamese" srclang="vie" src="พลิกชะตาเหนือฟ้า/01/vie.vtt">
+  <track kind="captions" label="ไทย" srclang="th" src="ชะตารักกระดูกปักษา/01/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="ชะตารักกระดูกปักษา/01/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="ชะตารักกระดูกปักษา/01/ara.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="ชะตารักกระดูกปักษา/01/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="ชะตารักกระดูกปักษา/01/chi_1.vtt">
+  <track kind="captions" label="French" srclang="fre" src="ชะตารักกระดูกปักษา/01/fre.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="ชะตารักกระดูกปักษา/01/ind.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="ชะตารักกระดูกปักษา/01/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="ชะตารักกระดูกปักษา/01/may.vtt">
+  <track kind="captions" label="Portuguese" srclang="por" src="ชะตารักกระดูกปักษา/01/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa" src="ชะตารักกระดูกปักษา/01/spa.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="ชะตารักกระดูกปักษา/01/vie.vtt">
   <!----->
