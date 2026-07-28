@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=4113000,RESOLUTION=1920x824
+https://1a-1791.com/video/fwe2/75/s8/2/S/U/R/V/SURVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1471582720-1471611594
+#EXT-X-STREAM-INF:BANDWIDTH=2139000,RESOLUTION=1280x550
+https://1a-1791.com/video/fwe2/75/s8/2/S/U/R/V/SURVz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=765505024-765533678
+#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x366
+https://1a-1791.com/video/fwe2/75/s8/2/S/U/R/V/SURVz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=376278528-376307086
+#EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x274
+https://1a-1791.com/video/fwe2/75/s8/2/S/U/R/V/SURVz.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=241371648-241400119
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x274
+https://1a-1791.com/video/fwe2/75/s8/2/S/U/R/V/SURVz.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=79730688-79758797
