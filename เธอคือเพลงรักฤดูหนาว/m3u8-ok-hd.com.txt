@@ -34,3 +34,21 @@ https://ok-hd.com/hls/70a2d9b78976ab9d4df9bcf1f2291e82/master.m3u8
 https://ok-hd.com/hls/15fa53f4473caa9b1dd6d4ddb439d1ab/master.m3u8
 https://ok-hd.com/hls/d4c5dca14fb32f6e4cb9666ba74c8dc2/master.m3u8
 https://ok-hd.com/hls/c4450cf56528b245d2437d154e6e0ba6/master.m3u8
+
+
+
+2   6rrm07
+3   6rrm2j
+11   6rrm5j
+12   6rrm7f
+23   6rrm8d
+24   6rrm93
+31   7baln8   https://1a-1791.com/video/fww1/bf/s8/2/a/U/9/K/aU9KA.aaa.mp4
+32   7balqk   https://1a-1791.com/video/fwe2/54/s8/2/4/V/9/K/4V9KA.aaa.mp4
+33   7balr4   https://1a-1791.com/video/fwe2/7c/s8/2/m/W/9/K/mW9KA.aaa.mp4
+34   7balru   https://1a-1791.com/video/fww1/d7/s8/2/M/W/9/K/MW9KA.aaa.mp4
+35   7balri   https://1a-1791.com/video/fww1/99/s8/2/A/W/9/K/AW9KA.aaa.mp4
+36   7balsc   https://1a-1791.com/video/fwe2/e2/s8/2/4/W/9/K/4W9KA.aaa.mp4
+
+
+
