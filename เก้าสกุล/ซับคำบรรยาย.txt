@@ -1,0 +1,20 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="เก้าสกุล/01/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="เก้าสกุล/01/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="เก้าสกุล/01/ara.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="เก้าสกุล/01/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="เก้าสกุล/01/chi_1.vtt">
+  <track kind="captions" label="French" srclang="fre" src="เก้าสกุล/01/fre.vtt">
+  <track kind="captions" label="German" srclang="ger" src="เก้าสกุล/01/ger.vtt">
+  <track kind="captions" label="Hindi" srclang="hin" src="เก้าสกุล/01/hin.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="เก้าสกุล/01/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="เก้าสกุล/01/jpn.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="เก้าสกุล/01/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="เก้าสกุล/01/may.vtt">
+  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="เก้าสกุล/01/por.vtt">
+  <track kind="captions" label="Spanish (Latin America)" srclang="spa" src="เก้าสกุล/01/spa.vtt">
+  <track kind="captions" label="Spanish" srclang="spa." src="เก้าสกุล/01/spa.vtt">
+  <track kind="captions" label="Turkish" srclang="tur" src="เก้าสกุล/01/tur.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="เก้าสกุล/01/vie.vtt">
+  <!----->

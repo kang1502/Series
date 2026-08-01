@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://1a-1791.com/video/fwe2/bc/s8/2/-/O/I/L/-OILA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=365943808-365971674"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://1a-1791.com/video/fwe2/f6/s8/2/S/D/H/L/SDHLA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=234721792-234749568"
+
+#EXT-X-STREAM-INF:BANDWIDTH=6388000,RESOLUTION=2560x1072,CODECS="avc1.640033,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/f6/s8/2/S/D/H/L/SDHLA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2221044736-2221072956
+#EXT-X-STREAM-INF:BANDWIDTH=4107000,RESOLUTION=1920x804,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/f6/s8/2/S/D/H/L/SDHLA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1427971584-1427999748
+#EXT-X-STREAM-INF:BANDWIDTH=2134000,RESOLUTION=1280x536,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/f6/s8/2/S/D/H/L/SDHLA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=741987840-742015697
+#EXT-X-STREAM-INF:BANDWIDTH=1052000,RESOLUTION=854x358,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/f6/s8/2/S/D/H/L/SDHLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=366024192-366052060
+#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/f6/s8/2/S/D/H/L/SDHLA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=234721792-234749568
+#EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/f6/s8/2/S/D/H/L/SDHLA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=77506560-77533890
