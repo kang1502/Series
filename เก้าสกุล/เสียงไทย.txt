@@ -1,0 +1,15 @@
+﻿https://1a-1791.com/video/fww1/5d/s8/2/C/z/H/L/CzHLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=309490176-309513630
+https://1a-1791.com/video/fww1/1a/s8/2/m/A/H/L/mAHLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=308898816-308922248
+https://1a-1791.com/video/fwe2/bc/s8/2/-/O/I/L/-OILA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=365943808-365971674
+
+
+
+
+
+
+
+
+
+ใช้โดเมนอยู่ 2 ตัว
+https://1a-1791.com
+https://hugh.cdn.rumble.cloud/
