@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=2138000,RESOLUTION=1280x534
+https://1a-1791.com/video/fwe2/5b/s8/2/C/o/e/M/CoeMA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=758071808-758100254
+#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x356
+https://1a-1791.com/video/fwe2/5b/s8/2/C/o/e/M/CoeMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=372717056-372745414
+#EXT-X-STREAM-INF:BANDWIDTH=676000,RESOLUTION=640x268
+https://1a-1791.com/video/fwe2/5b/s8/2/C/o/e/M/CoeMA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=239752704-239780960
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x268
+https://1a-1791.com/video/fwe2/5b/s8/2/C/o/e/M/CoeMA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=79005696-79033607
