@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=5052000,RESOLUTION=1920x1080
+https://1a-1791.com/video/fww1/38/s8/2/M/e/z/M/MezMA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1632667648-1632693875
+#EXT-X-STREAM-INF:BANDWIDTH=3317000,RESOLUTION=1280x720
+https://1a-1791.com/video/fww1/38/s8/2/M/e/z/M/MezMA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1072086528-1072112575
+#EXT-X-STREAM-INF:BANDWIDTH=2337000,RESOLUTION=854x480
+https://1a-1791.com/video/fww1/38/s8/2/M/e/z/M/MezMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=755278848-755304839
+#EXT-X-STREAM-INF:BANDWIDTH=2009000,RESOLUTION=640x360
+https://1a-1791.com/video/fww1/38/s8/2/M/e/z/M/MezMA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=649256960-649282937
+#EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x360
+https://1a-1791.com/video/fww1/38/s8/2/M/e/z/M/MezMA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=72045568-72071020
