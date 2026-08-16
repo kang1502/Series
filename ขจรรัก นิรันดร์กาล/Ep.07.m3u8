@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=4105000,RESOLUTION=1920x1080
+https://1a-1791.com/video/fww1/d2/s8/2/I/M/P/O/IMPOz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1289127936-1289153246
+#EXT-X-STREAM-INF:BANDWIDTH=2139000,RESOLUTION=1280x720
+https://1a-1791.com/video/fww1/d2/s8/2/I/M/P/O/IMPOz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=671827456-671852609
+#EXT-X-STREAM-INF:BANDWIDTH=1057000,RESOLUTION=854x480
+https://1a-1791.com/video/fww1/d2/s8/2/I/M/P/O/IMPOz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=332155904-332180988
+#EXT-X-STREAM-INF:BANDWIDTH=679000,RESOLUTION=640x360
+https://1a-1791.com/video/fww1/d2/s8/2/I/M/P/O/IMPOz.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=213379072-213404073
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x360
+https://1a-1791.com/video/fww1/d2/s8/2/I/M/P/O/IMPOz.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=69807104-69831849
