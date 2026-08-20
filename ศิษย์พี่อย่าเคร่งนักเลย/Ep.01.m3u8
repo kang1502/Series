@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://1a-1791.com/video/fww1/f0/s8/2/g/p/X/Q/gpXQA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325687296-325712132"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://1a-1791.com/video/fww1/17/s8/2/u/s/X/Q/usXQA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325595136-325619973"
+
+#EXT-X-STREAM-INF:BANDWIDTH=6369000,RESOLUTION=2560x1078,CODECS="avc1.640033,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/17/s8/2/u/s/X/Q/usXQA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1977305600-1977330838
+#EXT-X-STREAM-INF:BANDWIDTH=4096000,RESOLUTION=1920x808,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/17/s8/2/u/s/X/Q/usXQA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1271756288-1271781377
+#EXT-X-STREAM-INF:BANDWIDTH=2128000,RESOLUTION=1280x540,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/17/s8/2/u/s/X/Q/usXQA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=660820480-660845410
+#EXT-X-STREAM-INF:BANDWIDTH=1048000,RESOLUTION=854x360,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/17/s8/2/u/s/X/Q/usXQA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325595136-325619973
+#EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x270,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/17/s8/2/u/s/X/Q/usXQA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=209327616-209352369
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x270,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/17/s8/2/u/s/X/Q/usXQA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=69183488-69207861
