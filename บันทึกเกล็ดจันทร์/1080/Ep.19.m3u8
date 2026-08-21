@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://1a-1791.com/video/fwe2/99/s8/2/i/7/A/g/i7AgA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=270076416-270106736"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="https://1a-1791.com/video/fwe2/72/s8/2/4/P/B/g/4PBgA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=191198720-191229072"
+
+# EXT-X-STREAM-INF:BANDWIDTH=6428000,RESOLUTION=2560x1072,CODECS="avc1.640032,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
+# https://1a-1791.com/video/fwe2/99/s8/2/i/7/A/g/i7AgA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2437285888-2437316790
+#EXT-X-STREAM-INF:BANDWIDTH=4147000,RESOLUTION=1920x804,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/99/s8/2/i/7/A/g/i7AgA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1572555264-1572586022
+#EXT-X-STREAM-INF:BANDWIDTH=2170000,RESOLUTION=1280x536,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/99/s8/2/i/7/A/g/i7AgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=823025152-823055641
+#EXT-X-STREAM-INF:BANDWIDTH=1088000,RESOLUTION=854x358,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/99/s8/2/i/7/A/g/i7AgA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=412597248-412627657
+#EXT-X-STREAM-INF:BANDWIDTH=712000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/99/s8/2/i/7/A/g/i7AgA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=270076416-270106736
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x268,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/99/s8/2/i/7/A/g/i7AgA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=84494848-84524737
