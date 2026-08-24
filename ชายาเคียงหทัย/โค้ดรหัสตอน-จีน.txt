@@ -33,8 +33,8 @@
 79onp8   https://hugh.cdn.rumble.cloud/video/fww1/81/s8/2/e/q/R/A/eqRAA.aaa.mkv
 79r8k6   https://hugh.cdn.rumble.cloud/video/fwe2/6d/s8/2/E/O/i/B/EOiBA.aaa.mkv
 79rcf4   https://hugh.cdn.rumble.cloud/video/fwe2/1a/s8/2/O/2/j/B/O2jBA.aaa.mkv
-7a6y9s   https://1a-1791.com/video/fwe2/47/s8/2/i/O/7/D/iO7DA.aaa.mkv
-7a6yaq   https://1a-1791.com/video/fwe2/60/s8/2/Q/O/7/D/QO7DA.aaa.mkv
-7a6yce   https://1a-1791.com/video/fwe2/9f/s8/2/M/P/7/D/MP7DA.aaa.mkv
-7a6ydm   https://1a-1791.com/video/fww1/11/s8/2/s/Q/7/D/sQ7DA.aaa.mkv
-7a6ydy   https://1a-1791.com/video/fww1/d1/s8/2/E/Q/7/D/EQ7DA.aaa.mkv
+7a6y9s   https://hugh.cdn.rumble.cloud/video/fwe2/47/s8/2/i/O/7/D/iO7DA.aaa.mkv
+7a6yaq   https://hugh.cdn.rumble.cloud/video/fwe2/60/s8/2/Q/O/7/D/QO7DA.aaa.mkv
+7a6yce   https://hugh.cdn.rumble.cloud/video/fwe2/9f/s8/2/M/P/7/D/MP7DA.aaa.mkv
+7a6ydm   https://hugh.cdn.rumble.cloud/video/fww1/11/s8/2/s/Q/7/D/sQ7DA.aaa.mkv
+7a6ydy   https://hugh.cdn.rumble.cloud/video/fww1/d1/s8/2/E/Q/7/D/EQ7DA.aaa.mkv

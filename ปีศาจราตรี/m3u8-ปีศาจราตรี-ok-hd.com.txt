@@ -39,5 +39,5 @@ https://ok-hd.com/hls/8b078a8d4083d086e4b159e3575479ac/master.m3u8
 
 
 MP4
-15 https://1a-1791.com/video/fwe2/17/s8/2/g/V/L/r/gVLrz.aaa.mp4
-16 https://1a-1791.com/video/fww1/1f/s8/2/C/V/L/r/CVLrz.aaa.mp4
+15 https://hugh.cdn.rumble.cloud/video/fwe2/17/s8/2/g/V/L/r/gVLrz.aaa.mp4
+16 https://hugh.cdn.rumble.cloud/video/fww1/1f/s8/2/C/V/L/r/CVLrz.aaa.mp4
