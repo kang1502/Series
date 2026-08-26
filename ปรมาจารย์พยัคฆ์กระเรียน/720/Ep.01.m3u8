@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=2130000,RESOLUTION=1280x534
+https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/i/3/L/S/i3LSA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=700555264-700581619
+#EXT-X-STREAM-INF:BANDWIDTH=1052000,RESOLUTION=854x356
+https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/i/3/L/S/i3LSA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=346089472-346115730
+#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x268
+https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/i/3/L/S/i3LSA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=222084096-222110267
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x268
+https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/i/3/L/S/i3LSA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=73139712-73165561
