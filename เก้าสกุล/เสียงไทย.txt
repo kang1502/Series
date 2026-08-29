@@ -1,15 +1,36 @@
-﻿https://hugh.cdn.rumble.cloud/video/fww1/5d/s8/2/C/z/H/L/CzHLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=309490176-309513630
-https://hugh.cdn.rumble.cloud/video/fww1/1a/s8/2/m/A/H/L/mAHLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=308898816-308922248
-https://hugh.cdn.rumble.cloud/video/fwe2/bc/s8/2/-/O/I/L/-OILA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=365943808-365971674
-
-
-
-
-
-
+﻿https://1a-1791.com/video/fww1/5d/s8/2/C/z/H/L/CzHLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=309490176-309513630
+https://1a-1791.com/video/fww1/1a/s8/2/m/A/H/L/mAHLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=308898816-308922248
+https://1a-1791.com/video/fwe2/bc/s8/2/-/O/I/L/-OILA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=365943808-365971674
+https://1a-1791.com/video/fww1/c0/s8/2/w/O/Z/L/wOZLA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=326500864-326525713
+https://1a-1791.com/video/fwe2/4d/s8/2/E/z/u/M/EzuMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=358132736-358159897
+https://1a-1791.com/video/fwe2/00/s8/2/C/1/H/M/C1HMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=348082176-348108745
+https://1a-1791.com/video/fww1/a5/s8/2/8/f/Y/M/8fYMA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351113728-351140395
+https://1a-1791.com/video/fwe2/d5/s8/2/u/4/t/N/u4tNA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=347131392-347157748
+https://1a-1791.com/video/fww1/ff/s8/2/W/l/u/N/WluNA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351305216-351331986
+https://1a-1791.com/video/fwe2/77/s8/2/6/B/X/N/6BXNA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=323396096-323420653
+https://1a-1791.com/video/fwe2/d5/s8/2/W/9/h/O/W9hOA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=354706432-354733392
+https://1a-1791.com/video/fww1/85/s8/2/E/8/I/O/E8IOA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=383865344-383894500
+https://1a-1791.com/video/fww1/c7/s8/2/s/9/I/O/s9IOA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=405058560-405089337
+https://1a-1791.com/video/fwe2/73/s8/2/k/T/3/O/kT3OA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=379271680-379300554
+https://1a-1791.com/video/fww1/5c/s8/2/A/U/l/P/AUlPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=419301376-419333354
+https://1a-1791.com/video/fww1/0d/s8/2/w/t/x/P/wtxPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=400656896-400687389
+https://1a-1791.com/video/fww1/2a/s8/2/Y/d/U/P/YdUPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=371404288-371432545
+https://1a-1791.com/video/fww1/d5/s8/2/a/_/c/Q/a_cQA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=418361344-418393135
+https://1a-1791.com/video/fww1/9c/s8/2/u/J/i/Q/uJiQA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=325980672-326005434
+https://1a-1791.com/video/fww1/c8/s8/2/e/H/y/Q/eHyQA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=380471808-380500682
+https://1a-1791.com/video/fwe2/bb/s8/2/w/v/X/Q/wvXQA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=403683328-403713999
+https://1a-1791.com/video/fwe2/f7/s8/2/-/p/_/Q/-p_QA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=393019392-393049270
+https://1a-1791.com/video/fwe2/e6/s8/2/8/a/K/R/8aKRA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=370162688-370190870
+https://1a-1791.com/video/fww1/91/s8/2/e/b/K/R/ebKRA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=303230464-303253508
+https://1a-1791.com/video/fww1/0d/s8/2/E/r/Y/R/ErYRA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=379353088-379382058
+https://hugh.cdn.rumble.cloud/video/fwe2/10/s8/2/C/t/m/T/CtmTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=346284032-346310374
+https://hugh.cdn.rumble.cloud/video/fww1/9e/s8/2/Y/t/m/T/YtmTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=421989888-422022061
+https://hugh.cdn.rumble.cloud/video/fww1/77/s8/2/s/u/m/T/sumTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=396048384-396078553
+https://hugh.cdn.rumble.cloud/video/fww1/05/s8/2/0/u/m/T/0umTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=351451648-351478311
+https://hugh.cdn.rumble.cloud/video/fww1/64/s8/2/c/v/m/T/cvmTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=282712576-282734003
 
 
 
 ใช้โดเมนอยู่ 2 ตัว
-https://hugh.cdn.rumble.cloud
+https://1a-1791.com
 https://hugh.cdn.rumble.cloud/
