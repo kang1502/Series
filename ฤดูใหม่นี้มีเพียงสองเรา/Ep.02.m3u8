@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย[Netflix]",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/j/L/U/AjLUA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=383376384-383405555"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย[YOUKU]",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hugh.cdn.rumble.cloud/video/fww1/83/s8/2/C/r/L/U/CrLUA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=64971264-64999807"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hugh.cdn.rumble.cloud/video/fww1/54/s8/2/M/w/L/U/MwLUA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=65051136-65079679"
+
+#EXT-X-STREAM-INF:BANDWIDTH=4090000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/j/L/U/AjLUA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1490539520-1490568996
+#EXT-X-STREAM-INF:BANDWIDTH=2130000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/j/L/U/AjLUA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=776249344-776278594
+#EXT-X-STREAM-INF:BANDWIDTH=1052000,RESOLUTION=854x480,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/j/L/U/AjLUA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=383376384-383405555
+#EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/j/L/U/AjLUA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=245616640-245645715
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://hugh.cdn.rumble.cloud/video/fwe2/28/s8/2/A/j/L/U/AjLUA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=80960000-80988694
