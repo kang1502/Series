@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://hugh.cdn.rumble.cloud/video/fwe2/86/s8/2/u/k/6/U/uk6UA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=331056128-331081268"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/i/6/U/Ai6UA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=331020288-331045428"
+
+#EXT-X-STREAM-INF:BANDWIDTH=6375000,RESOLUTION=2560x1078
+https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/i/6/U/Ai6UA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2005393920-2005419460
+#EXT-X-STREAM-INF:BANDWIDTH=4111000,RESOLUTION=1920x808
+https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/i/6/U/Ai6UA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1293414912-1293440290
+#EXT-X-STREAM-INF:BANDWIDTH=2136000,RESOLUTION=1280x540
+https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/i/6/U/Ai6UA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=671993344-672018576
+#EXT-X-STREAM-INF:BANDWIDTH=1052000,RESOLUTION=854x360
+https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/i/6/U/Ai6UA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=331020288-331045428
+#EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x270
+https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/i/6/U/Ai6UA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=212290048-212315097
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x270
+https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/i/6/U/Ai6UA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=69987328-70012100
