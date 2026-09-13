@@ -1,0 +1,18 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/ara.vtt">
+  <track kind="captions" label="Chinese" srclang="zh-hans" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/chi.vtt">
+  <track kind="captions" label="French" srclang="fre" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/fre.vtt">
+  <track kind="captions" label="German" srclang="ger" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/ger.vtt">
+  <track kind="captions" label="Hindi" srclang="hin" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/hin.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/jpn.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/may.vtt">
+  <track kind="captions" label="Portuguese" srclang="por" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/spa.vtt">
+  <track kind="captions" label="Turkish" srclang="tur" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/tur.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="ฤดูใหม่นี้มีเพียงสองเรา/Ep.Q/vie.vtt">
+  <!----->
