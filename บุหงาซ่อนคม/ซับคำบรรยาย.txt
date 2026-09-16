@@ -1,0 +1,15 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="บุหงาซ่อนคม/01/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="บุหงาซ่อนคม/01/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="บุหงาซ่อนคม/01/ara.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="บุหงาซ่อนคม/01/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="บุหงาซ่อนคม/01/chi_1.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="บุหงาซ่อนคม/01/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="บุหงาซ่อนคม/01/jpn.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="บุหงาซ่อนคม/01/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="บุหงาซ่อนคม/01/may.vtt">
+  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="บุหงาซ่อนคม/01/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa." src="บุหงาซ่อนคม/01/spa.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="บุหงาซ่อนคม/01/vie.vtt">
+  <!----->
