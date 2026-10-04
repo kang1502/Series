@@ -1,0 +1,21 @@
+
+ <!--🎦🎦🎦-->
+  <track kind="captions" label="ไทย(YOUKU)" srclang="th" src="กลเกมเหนือโชคชะตา/QQ/tha.vtt"> 
+  <track kind="captions" label="ไทย(Netflix)" srclang="th" src="กลเกมเหนือโชคชะตา/QQ/tha_1.vtt">
+  <track kind="captions" label="English" srclang="eng" src="กลเกมเหนือโชคชะตา/QQ/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="กลเกมเหนือโชคชะตา/QQ/ara.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="กลเกมเหนือโชคชะตา/QQ/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="กลเกมเหนือโชคชะตา/QQ/chi_1.vtt">
+  <track kind="captions" label="French" srclang="fre" src="กลเกมเหนือโชคชะตา/QQ/fre.vtt">
+  <track kind="captions" label="German" srclang="ger" src="กลเกมเหนือโชคชะตา/QQ/ger.vtt">
+  <track kind="captions" label="Hindi" srclang="hin" src="กลเกมเหนือโชคชะตา/QQ/hin.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="กลเกมเหนือโชคชะตา/QQ/ind.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="กลเกมเหนือโชคชะตา/QQ/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="กลเกมเหนือโชคชะตา/QQ/may.vtt">
+  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="กลเกมเหนือโชคชะตา/QQ/por.vtt">
+    <track kind="captions" label="Russian" srclang="rus" src="กลเกมเหนือโชคชะตา/QQ/rus.vtt">
+  <track kind="captions" label="Spanish (Latin America)" srclang="spa" src="กลเกมเหนือโชคชะตา/QQ/spa.vtt">
+  <track kind="captions" label="Spanish" srclang="spa." src="กลเกมเหนือโชคชะตา/QQ/spa_1.vtt">
+  <track kind="captions" label="Turkish" srclang="tur" src="กลเกมเหนือโชคชะตา/QQ/tur.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="กลเกมเหนือโชคชะตา/QQ/vie.vtt">
+  <!----->
