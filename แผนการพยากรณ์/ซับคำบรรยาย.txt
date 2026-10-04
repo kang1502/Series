@@ -1,0 +1,16 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="แผนการพยากรณ์/Ep.QQ/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="แผนการพยากรณ์/Ep.QQ/eng.vtt">
+  <track kind="captions" label="French" srclang="fre" src="แผนการพยากรณ์/Ep.QQ/fre.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="แผนการพยากรณ์/Ep.QQ/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="แผนการพยากรณ์/Ep.QQ/jpn.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="แผนการพยากรณ์/Ep.QQ/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="แผนการพยากรณ์/Ep.QQ/may.vtt">
+  <track kind="captions" label="Portuguese" srclang="por" src="แผนการพยากรณ์/Ep.QQ/por.vtt">
+  <track kind="captions" label="Spanish " srclang="spa" src="แผนการพยากรณ์/Ep.QQ/spa.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="แผนการพยากรณ์/Ep.QQ/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="แผนการพยากรณ์/Ep.QQ/chi_1.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="แผนการพยากรณ์/Ep.QQ/vie.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="แผนการพยากรณ์/Ep.QQ/ara.vtt">
+  <!----->
