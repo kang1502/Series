@@ -1,0 +1,16 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="เทพมือปราบเงาปีศาจ/Ep.QQ/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="เทพมือปราบเงาปีศาจ/Ep.QQ/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="เทพมือปราบเงาปีศาจ/Ep.QQ/ara.vtt">
+  <track kind="captions" label="French" srclang="fre" src="เทพมือปราบเงาปีศาจ/Ep.QQ/fre.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="เทพมือปราบเงาปีศาจ/Ep.QQ/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="เทพมือปราบเงาปีศาจ/Ep.QQ/jpn.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="เทพมือปราบเงาปีศาจ/Ep.QQ/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="เทพมือปราบเงาปีศาจ/Ep.QQ/may.vtt">
+  <track kind="captions" label="Portuguese " srclang="por" src="เทพมือปราบเงาปีศาจ/Ep.QQ/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa." src="เทพมือปราบเงาปีศาจ/Ep.QQ/spa.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="เทพมือปราบเงาปีศาจ/Ep.QQ/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="เทพมือปราบเงาปีศาจ/Ep.QQ/chi_1.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="เทพมือปราบเงาปีศาจ/Ep.QQ/vie.vtt">
+  <!----->
