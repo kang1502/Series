@@ -1,0 +1,18 @@
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย (1)" srclang="th" src="ปลดหน้ากาก/Ep.QQ/tha.vtt">
+  <track kind="captions" label="ไทย (2)" srclang="th" src="ปลดหน้ากาก/Ep.QQ/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="ปลดหน้ากาก/Ep.QQ/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="ปลดหน้ากาก/Ep.QQ/ara.vtt">
+  <track kind="captions" label="French" srclang="fre" src="ปลดหน้ากาก/Ep.QQ/fre.vtt">
+  <track kind="captions" label="German" srclang="ger" src="ปลดหน้ากาก/Ep.QQ/ger.vtt">
+  <track kind="captions" label="Hindi" srclang="hin" src="ปลดหน้ากาก/Ep.QQ/hin.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="ปลดหน้ากาก/Ep.QQ/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="ปลดหน้ากาก/Ep.QQ/jpn.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="ปลดหน้ากาก/Ep.QQ/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="ปลดหน้ากาก/Ep.QQ/may.vtt">
+  <track kind="captions" label="Portuguese (Brazil)" srclang="por" src="ปลดหน้ากาก/Ep.QQ/por.vtt">
+  <track kind="captions" label="Turkish" srclang="tur" src="ปลดหน้ากาก/Ep.QQ/tur.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="ปลดหน้ากาก/Ep.QQ/vie.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="ปลดหน้ากาก/Ep.QQ/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="ปลดหน้ากาก/Ep.QQ/chi_1.vtt">
+  <!----->
