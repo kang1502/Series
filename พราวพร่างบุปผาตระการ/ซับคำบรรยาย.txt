@@ -1,0 +1,14 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="พราวพร่างบุปผาตระการ/Ep.QQ/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="พราวพร่างบุปผาตระการ/Ep.QQ/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="พราวพร่างบุปผาตระการ/Ep.QQ/ara.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="พราวพร่างบุปผาตระการ/Ep.QQ/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="พราวพร่างบุปผาตระการ/Ep.QQ/chi_1.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="พราวพร่างบุปผาตระการ/Ep.QQ/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="พราวพร่างบุปผาตระการ/Ep.QQ/jpn.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="พราวพร่างบุปผาตระการ/Ep.QQ/may.vtt">
+  <track kind="captions" label="Portuguese" srclang="por" src="พราวพร่างบุปผาตระการ/Ep.QQ/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa" src="พราวพร่างบุปผาตระการ/Ep.QQ/spa.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="พราวพร่างบุปผาตระการ/Ep.QQ/vie.vtt">
+  <!----->
