@@ -45,7 +45,7 @@ https://hugh.cdn.rumble.cloud/
 flight.to.you.p1@
 
 1  https://rumble.com/embed/v7fa5bm/?pub=4ph2xw
-2  https://hugh.cdn.rumble.cloud/video/fww1/b7/s8/2/S/2/E/-/S2E-A.aaa.mkv
+2  https://rumble.com/embed/v7fa5di/?pub=4ph2xw
 3  https://rumble.com/embed/v7fa5fo/?pub=4ph2xw
 4  https://rumble.com/embed/v7fa5f0/?pub=4ph2xw
 5  https://rumble.com/embed/v7fa5ew/?pub=4ph2xw
