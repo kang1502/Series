@@ -1,6 +1,6 @@
 ﻿https://hugh.cdn.rumble.cloud/video/fww1/11/s8/2/s/S/n/8/sSn8A.aaa.mkv
 https://hugh.cdn.rumble.cloud/video/fwe2/51/s8/2/a/S/n/8/aSn8A.aaa.mkv
-https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/E/Z/n/8/EZn8A.aaa.mkv
+https://hugh.cdn.rumble.cloud/video/fwe2/82/s8/2/q/R/a/a/qRaaB.aaa.mkv
 https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/c/e/o/8/ceo8A.aaa.mkv
 https://hugh.cdn.rumble.cloud/video/fww1/cd/s8/2/O/e/o/8/Oeo8A.aaa.mkv
 https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/2/y/b/p/8/ybp8A.aaa.mkv
@@ -41,7 +41,7 @@ https://hugh.cdn.rumble.cloud/
 
 1  https://rumble.com/embed/v7exel8/?pub=4o588a
 2  https://rumble.com/embed/v7exekq/?pub=4o588a
-3  https://rumble.com/embed/v7exey0/?pub=4o588a
+3  https://rumble.com/embed/v7fiqje/?pub=4o588a
 4  https://rumble.com/embed/v7exfrg/?pub=4o588a
 5  https://rumble.com/embed/v7exfsi/?pub=4o588a
 6  https://rumble.com/embed/v7exisi/?pub=4o588a
