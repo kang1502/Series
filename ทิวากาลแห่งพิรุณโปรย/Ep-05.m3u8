@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="ไทย",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://hugh.cdn.rumble.cloud/video/fww1/30/s8/2/o/y/3/9/oy39z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=112102912-112128029"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="จีน",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/C/C/T/c/CCTcB.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=336644608-336670168"
+
+#EXT-X-STREAM-INF:BANDWIDTH=6387000,RESOLUTION=2560x1090,CODECS="avc1.640033,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio",CLOSED-CAPTIONS=NONE
+https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/C/C/T/c/CCTcB.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2039471616-2039497575
+#EXT-X-STREAM-INF:BANDWIDTH=4105000,RESOLUTION=1920x818,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio",CLOSED-CAPTIONS=NONE
+https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/C/C/T/c/CCTcB.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1310930432-1310956231
+#EXT-X-STREAM-INF:BANDWIDTH=2135000,RESOLUTION=1280x546,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio",CLOSED-CAPTIONS=NONE
+https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/C/C/T/c/CCTcB.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=681691136-681716783
+#EXT-X-STREAM-INF:BANDWIDTH=1054000,RESOLUTION=854x364,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio",CLOSED-CAPTIONS=NONE
+https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/C/C/T/c/CCTcB.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=336644608-336670168
+#EXT-X-STREAM-INF:BANDWIDTH=676000,RESOLUTION=640x272,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio",CLOSED-CAPTIONS=NONE
+https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/C/C/T/c/CCTcB.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=215869440-215894904
+#EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x272,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio",CLOSED-CAPTIONS=NONE
+https://hugh.cdn.rumble.cloud/video/fww1/fa/s8/2/C/C/T/c/CCTcB.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=71242240-71267296

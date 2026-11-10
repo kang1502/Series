@@ -1,0 +1,41 @@
+1    https://hugh.cdn.rumble.cloud/video/fww1/36/s8/2/Y/H/F/9/YHF9z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=100088320-100110734
+2    https://hugh.cdn.rumble.cloud/video/fww1/f8/s8/2/M/I/F/9/MIF9z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=104118784-104142099
+3    https://hugh.cdn.rumble.cloud/video/fww1/fe/s8/2/E/J/F/9/EJF9z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=103087104-103110119
+4    https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/Q/J/F/9/QJF9z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=134214656-134244777
+5    https://hugh.cdn.rumble.cloud/video/fww1/30/s8/2/o/y/3/9/oy39z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=112102912-112128029
+6    https://hugh.cdn.rumble.cloud/video/fww1/cb/s8/2/S/y/3/9/Sy39z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=109193728-109218144
+7    https://hugh.cdn.rumble.cloud/video/fwe2/14/s8/2/s/f/4/9/sf49z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=110639616-110664432
+8    https://hugh.cdn.rumble.cloud/video/fww1/e9/s8/2/m/g/4/9/mg49z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=113230336-113255653
+9    https://hugh.cdn.rumble.cloud/video/fwe2/16/s8/2/M/S/y/-/MSy-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=105157632-105181147
+10   https://hugh.cdn.rumble.cloud/video/fwe2/8f/s8/2/k/T/y/-/kTy-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=97397248-97418975
+11   https://hugh.cdn.rumble.cloud/video/fwe2/8e/s8/2/c/M/M/-/cMM-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=95752192-95773527
+12   https://hugh.cdn.rumble.cloud/video/fwe2/e5/s8/2/w/N/M/-/wNM-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=100533248-100555663
+13   https://hugh.cdn.rumble.cloud/video/fwe2/fb/s8/2/m/s/V/-/msV-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=99951616-99973931
+14   https://hugh.cdn.rumble.cloud/video/fww1/a6/s8/2/W/s/V/-/WsV-z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=98588672-98610693
+15   https://hugh.cdn.rumble.cloud/video/fwe2/a3/s8/2/m/v/l/_/mvl_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=103833600-103856815
+16   https://hugh.cdn.rumble.cloud/video/fww1/d6/s8/2/Q/v/l/_/Qvl_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=107041792-107065708
+17   https://hugh.cdn.rumble.cloud/video/fwe2/0a/s8/2/8/f/u/_/8fu_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=97200128-97221855
+18   https://hugh.cdn.rumble.cloud/video/fww1/3d/s8/2/o/g/u/_/ogu_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=103142400-103165417
+19   https://hugh.cdn.rumble.cloud/video/fwe2/5a/s8/2/U/Y/W/_/UYW_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=97790976-97812801
+20   https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/G/Z/W/_/GZW_z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=106249216-106272932
+21   https://hugh.cdn.rumble.cloud/video/fwe2/1e/s8/2/S/5/H/b/S5HbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=105550336-105573951
+22   https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/g/6/H/b/g6HbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=99337728-99359945
+23   https://hugh.cdn.rumble.cloud/video/fwe2/e9/s8/2/C/6/H/b/C6HbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=119267328-119294046
+24   https://hugh.cdn.rumble.cloud/video/fww1/49/s8/2/i/9/H/b/i9HbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=107051520-107075436
+25   https://hugh.cdn.rumble.cloud/video/fwe2/8f/s8/2/K/7/J/b/K7JbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=115352576-115378393
+26   https://hugh.cdn.rumble.cloud/video/fwe2/d1/s8/2/E/8/J/b/E8JbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=112069120-112094139
+27   https://hugh.cdn.rumble.cloud/video/fwe2/4f/s8/2/8/8/J/b/88JbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=104591360-104614777
+28   https://hugh.cdn.rumble.cloud/video/fww1/2a/s8/2/A/9/J/b/A9JbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=105245184-105268699
+29   https://hugh.cdn.rumble.cloud/video/fww1/bb/s8/2/Q/-/J/b/Q-JbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=103175680-103198697
+30   https://hugh.cdn.rumble.cloud/video/fwe2/7e/s8/2/Y/q/k/e/YqkeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=109352960-109377476
+31   https://hugh.cdn.rumble.cloud/video/fwe2/9d/s8/2/m/r/k/e/mrkeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=107905536-107929652
+32   https://hugh.cdn.rumble.cloud/video/fwe2/ed/s8/2/W/r/k/e/WrkeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=122371072-122398491
+33   https://hugh.cdn.rumble.cloud/video/fwe2/41/s8/2/k/s/k/e/kskeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=104595968-104619285
+34   https://hugh.cdn.rumble.cloud/video/fww1/d0/s8/2/O/s/k/e/OskeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=104186880-104210097
+35   https://hugh.cdn.rumble.cloud/video/fwe2/2b/s8/2/c/t/k/e/ctkeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=100564992-100587408
+36   https://hugh.cdn.rumble.cloud/video/fwe2/b2/s8/2/I/t/k/e/ItkeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=104191488-104214705
+37   https://hugh.cdn.rumble.cloud/video/fww1/c4/s8/2/2/t/k/e/2tkeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=102899200-102922117
+
+ใช้โดเมนอยู่ 2 ตัว
+https://1a-1791.com
+https://hugh.cdn.rumble.cloud/

@@ -1,0 +1,9 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="ทิวากาลแห่งพิรุณโปรย/Ep.QQ/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="ทิวากาลแห่งพิรุณโปรย/Ep.QQ/eng.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="ทิวากาลแห่งพิรุณโปรย/Ep.QQ/ind.vtt">
+  <track kind="captions" label="Korean" srclang="kor" src="ทิวากาลแห่งพิรุณโปรย/Ep.QQ/kor.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="ทิวากาลแห่งพิรุณโปรย/Ep.QQ/may.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="ทิวากาลแห่งพิรุณโปรย/Ep.QQ/vie.vtt">
+  <!----->
