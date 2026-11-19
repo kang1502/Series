@@ -1,0 +1,14 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/tha.vtt">
+  <track kind="captions" label="English" srclang="eng" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/eng.vtt">
+  <track kind="captions" label="Arabic" srclang="ara" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/ara.vtt">
+  <track kind="captions" label="Indonesia" srclang="ind" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/ind.vtt">
+  <track kind="captions" label="Japanese" srclang="jpn" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/jpn.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/may.vtt">
+  <track kind="captions" label="Portuguese" srclang="por" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/por.vtt">
+  <track kind="captions" label="Spanish" srclang="spa" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/spa.vtt">
+ <track kind="captions" label="Vietnamese" srclang="vie" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/vie.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="พยัคฆ์หลงกลิ่นบุปผา/Ep.QQ/chi_1.vtt">
+  <!----->
