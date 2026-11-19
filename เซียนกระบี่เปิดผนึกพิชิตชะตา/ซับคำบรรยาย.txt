@@ -1,0 +1,9 @@
+
+ <!--🎦🎦🎦--> 
+  <track kind="captions" label="ไทย" srclang="th" src="เซียนกระบี่เปิดผนึกพิชิตชะตา/Ep.QQ/tha.vtt">
+  <track kind="captions" label="English_1" srclang="eng" src="เซียนกระบี่เปิดผนึกพิชิตชะตา/Ep.QQ/eng.vtt">
+  <track kind="captions" label="English_2" srclang="eng" src="เซียนกระบี่เปิดผนึกพิชิตชะตา/Ep.QQ/eng_1.vtt">
+  <track kind="captions" label="Malay" srclang="may" src="เซียนกระบี่เปิดผนึกพิชิตชะตา/Ep.QQ/may.vtt">
+  <track kind="captions" label="Chinese Simplified" srclang="zh-hans" src="เซียนกระบี่เปิดผนึกพิชิตชะตา/Ep.QQ/chi.vtt">
+  <track kind="captions" label="Chinese Traditional" srclang="zh-hant" src="เซียนกระบี่เปิดผนึกพิชิตชะตา/Ep.QQ/chi_1.vtt">
+  <!----->
